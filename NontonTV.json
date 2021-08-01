@@ -1,0 +1,260 @@
+{
+  "categories": [{
+    "name": "TV Lokal",
+    "channels": [{
+      "name": "GTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
+      "drm_name": "mncnow"
+    },
+      {
+        "name": "TV One",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"TV ONE",
+        "stream_url":"http://210.210.155.35/qwr9ew/s/s105/02.m3u8"
+      },
+      {
+        "name":"TRANS TV",
+        "stream_url":"https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+      },
+      {
+        "name":"TRANS TV",
+        "stream_url":"https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w163129062_b300100_sleng.m3u8"
+      },
+      {
+        "name": "Indosiar",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"INDOSIAR",
+        "stream_url":"http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar"
+      },
+      {
+        "name": "Indosiar",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name": "RCTI",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name": "SCTV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"SCTV",
+        "stream_url":"http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8"
+      },
+      {
+        "name":"TRANS 7",
+        "stream_url":"https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+      },
+      {
+        "name":"TRANS 7",
+        "stream_url":"http://rr2.dens.tv:80/s/s101/01.m3u8"
+      },
+      {
+        "name": "MNC TV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name": "Metro TV",
+        "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+      },
+      {
+        "name":"METRO TV",
+        "stream_url":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8"
+      },
+      {
+        "name": "Kompas TV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"KOMPAS TV",
+        "stream_url":"http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8"
+      },
+      {
+        "name":"CNN INDONESIA",
+        "stream_url":"https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+      },
+      {
+        "name":"CNN INDONESIA",
+        "stream_url":"https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cnnindonesia"
+      },
+      {
+        "name": "NET. TV",
+        "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      },
+      {
+        "name":"NET TV",
+        "stream_url":"http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8"
+      },
+      {
+        "name":"ANTV 1",
+        "stream_url":"http://rr2.dens.tv/s/s07/index2.m3u8"
+      },
+      {
+        "name":"ANTV 2",
+        "stream_url":"http://210.210.155.35/qwr9ew/s/s07/index1.m3u8"
+      },
+      {
+        "name":"RTV",
+        "stream_url":"http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8"
+      },
+      {
+        "name": "iNews",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"iNEWS",
+        "stream_url":"https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"
+      },
+      {
+        "name":"BERITA SATU",
+        "stream_url":"http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+      },
+      {
+        "name":"TVRI NASIONAL",
+        "stream_url":"https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8"
+      }]
+  },
+    {
+      "name": "OLYMPIC +",
+      "channels": [{
+        "name":"OLYMPIADE LIVE1",
+        "stream_url":"http://91.126.141.13:1935/live/41/1800-def.m3u8"
+      },
+        {
+          "name":"CCTV 5",
+          "stream_url":"http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8"
+        },
+        {
+          "name":"CCTV 5+",
+          "stream_url":"http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8"
+        },
+        {
+          "name":"OLYMPIC 1",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/318"
+        },
+        {
+          "name":"OLYMPIC 2",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/319"
+        },
+        {
+          "name":"OLYMPIC 3",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/320"
+        },
+        {
+          "name":"OLYMPIC 4",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/321"
+        },
+        {
+          "name":"OLYMPIC 5",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/322"
+        },
+        {
+          "name":"OLYMPIC 6",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/323"
+        },
+        {
+          "name":"OLYMPIC 7",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/324"
+        },
+        {
+          "name":"OLYMPIC 8",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/325"
+        },
+        {
+          "name":"OLYMPIC 9",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/326"
+        },
+        {
+          "name":"OLYMPIC 10",
+          "stream_url":"https://link.zozotv.xyz:443/Freemium1/unlimited99/327"
+        },
+        {
+          "name":"BeIN Sport1 Premium",
+          "stream_url":"http://dimapro.cz:8080/00:1A:79:17:05:C2/ziajdjjfdifjd64646/668"
+        },
+        {
+          "name":"BeIN Sport 2 Premium",
+          "stream_url":"http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8"
+        },
+        {
+          "name":"BeIN Toyko 1",
+          "stream_url":"http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN Tokyo 3",
+          "stream_url":"http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN Tokyo 4",
+          "stream_url":"http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN Tokyo 5",
+          "stream_url":"http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN  Tokyo 6",
+          "stream_url":"http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN Tokyo 7",
+          "stream_url":"http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8"
+        },
+        {
+          "name":"BeIN  Tokyo 8",
+          "stream_url":"http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8"
+        },
+        {
+          "name":"YACINE TV HD",
+          "stream_url":"http://9.anbdaouras.xyz/live/6262622200/index.m3u8"
+        },
+        {
+          "name":"YACINE TV FHD",
+          "stream_url":"http://10.ardounar.xyz/live/9889900/index.m3u8"
+        }]
+    },
+    {
+      "name": "HBO",
+      "channels": [{
+        "name":"HBO [INDO]",
+        "stream_url":"https://dl.dropboxusercontent.com/s/8vsk5mh6hhab2x2/01_trinity_hbo.m3u8?dl=0"
+      },
+        {
+          "name":"HBO Hits [INDO]",
+          "stream_url":"http://www.tettv.diradjafm.com/m3u/HBOhits-TETtv.m3u8"
+        },
+        {
+          "name":"HBO Family [INDO]",
+          "stream_url":"http://www.tettv.diradjafm.com/m3u/HBOFamily-TETtv.m3u8"
+        },
+        {
+          "name":"Cinemax [INDO]",
+          "stream_url":"http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8"
+        },
+        {
+          "name":"HBO Signature [INDO]",
+          "stream_url":"https://dl.dropbox.com/s/58c12tswe2q2ot9/05_UT_hbosignature.m3u8?dl=0"
+        },
+        {
+          "name":"HBO Signature [MULTISUB]",
+          "stream_url":"http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8"
+        }]
+    }],
+  "drm_licenses": [{
+    "drm_name": "mncnow",
+    "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
+  }]
+}
