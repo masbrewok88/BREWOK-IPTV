@@ -20,137 +20,136 @@
         "stream_url":"http://210.210.155.35/qwr9ew/s/s105/02.m3u8"
       },
       {
-        {
-          "name":"TRANS TV",
-          "stream_url":"http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8"
-        },
-        {
-          "name":"TRANS TV",
-          "stream_url":"https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w163129062_b300100_sleng.m3u8"
-        },
-        {
-          "name": "Indosiar",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"INDOSIAR",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8"
-        },
-        {
-          "name": "RCTI",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"SCTV",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8"
-        },
-        {
-          "name": "SCTV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"TRANS 7",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8"
-        },
-        {
-          "name":"TRANS 7",
-          "stream_url":"https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
-        },
-        {
-          "name": "MNC TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"METRO TV",
-          "stream_url":"http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8"
-        },
-        {
-          "name": "Metro TV",
-          "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
-        },
-        {
-          "name":"METRO TV",
-          "stream_url":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8"
-        },
-        {
-          "name":"KOMPAS TV",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8"
-        },
-        {
-          "name": "Kompas TV",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"KOMPAS TV",
-          "stream_url":"http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8"
-        },
-        {
-          "name":"CNN INDONESIA",
-          "stream_url":"https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
-        },
-        {
-          "name":"CNN INDONESIA",
-          "stream_url":"https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cnnindonesia"
-        },
-        {
-          "name":"NET",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8"
-        },
-        {
-          "name": "NET. TV",
-          "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
-        },
-        {
-          "name":"NET TV",
-          "stream_url":"http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8"
-        },
-        {
-          "name":"ANTV",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8"
-        },
-        {
-          "name":"ANTV",
-          "stream_url":"http://210.210.155.35/qwr9ew/s/s07/index1.m3u8"
-        },
-        {
-          "name":"RTV",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8",
-        },
-        {
-          "name":"RTV",
-          "stream_url":"http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8"
-        },
-        {
-          "name": "iNews",
-          "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
-          "drm_name": "mncnow"
-        },
-        {
-          "name":"iNEWS",
-          "stream_url":"https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"
-        },
-        {
-          "name":"BERITASATU",
-          "stream_url":"http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8"
-        },
-        {
-          "name":"BERITA SATU",
-          "stream_url":"http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
-        },
-        {
-          "name":"TVRI SPORT",
-          "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8"
-        },
-        {
-          "name":"TVRI NASIONAL",
-          "stream_url":"https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8"
-        }]
-    },
+        "name":"TRANS TV",
+        "stream_url":"http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8"
+      },
+      {
+        "name":"TRANS TV",
+        "stream_url":"https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w163129062_b300100_sleng.m3u8"
+      },
+      {
+        "name": "Indosiar",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"INDOSIAR",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8"
+      },
+      {
+        "name": "RCTI",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"SCTV",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8"
+      },
+      {
+        "name": "SCTV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"TRANS 7",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8"
+      },
+      {
+        "name":"TRANS 7",
+        "stream_url":"https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+      },
+      {
+        "name": "MNC TV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"METRO TV",
+        "stream_url":"http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8"
+      },
+      {
+        "name": "Metro TV",
+        "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+      },
+      {
+        "name":"METRO TV",
+        "stream_url":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8"
+      },
+      {
+        "name":"KOMPAS TV",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8"
+      },
+      {
+        "name": "Kompas TV",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"KOMPAS TV",
+        "stream_url":"http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8"
+      },
+      {
+        "name":"CNN INDONESIA",
+        "stream_url":"https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+      },
+      {
+        "name":"CNN INDONESIA",
+        "stream_url":"https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cnnindonesia"
+      },
+      {
+        "name":"NET",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8"
+      },
+      {
+        "name": "NET. TV",
+        "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      },
+      {
+        "name":"NET TV",
+        "stream_url":"http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8"
+      },
+      {
+        "name":"ANTV",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8"
+      },
+      {
+        "name":"ANTV",
+        "stream_url":"http://210.210.155.35/qwr9ew/s/s07/index1.m3u8"
+      },
+      {
+        "name":"RTV",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8"
+      },
+      {
+        "name":"RTV",
+        "stream_url":"http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8"
+      },
+      {
+        "name": "iNews",
+        "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
+        "drm_name": "mncnow"
+      },
+      {
+        "name":"iNEWS",
+        "stream_url":"https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"
+      },
+      {
+        "name":"BERITASATU",
+        "stream_url":"http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8"
+      },
+      {
+        "name":"BERITA SATU",
+        "stream_url":"http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+      },
+      {
+        "name":"TVRI SPORT",
+        "stream_url":"http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8"
+      },
+      {
+        "name":"TVRI NASIONAL",
+        "stream_url":"https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8"
+      }]
+  },
     {
       "name": "OLYMPIC TOKYO",
       "channels": [ {
@@ -229,8 +228,8 @@
           "stream_url":"http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8"
         }]
     }],
-    "drm_licenses": [{
-      "drm_name": "mncnow",
-      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
-    }]
-  }
+  "drm_licenses": [{
+    "drm_name": "mncnow",
+    "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
+  }]
+}
