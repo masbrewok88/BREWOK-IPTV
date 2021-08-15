@@ -3,7 +3,7 @@
     "name": "TV Lokal",
     "channels": [
       {"name":"yalla shoot",
-       "stream_url":"https://d2jffjpk3yo9rx.cloudfront.net/out/v1/23b343ae433d4de4a51400894ded5f0e/index_1.m3u8",
+       "stream_url":"https://d2jffjpk3yo9rx.cloudfront.net/out/v1/23b343ae433d4de4a51400894ded5f0e/index_1.m3u8"
        },
       {
       "name": "GTV",
